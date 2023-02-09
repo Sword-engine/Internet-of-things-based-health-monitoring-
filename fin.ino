@@ -34,8 +34,8 @@ LiquidCrystal_I2C lcd(0x3F,16,2);
 
 WiFiClient  client;
 
-unsigned long myChannelNumber = 1910851;
-const char * myWriteAPIKey = "UJBRJU7CDER1WK05";
+unsigned long myChannelNumber = xxxxxxxxxxx;
+const char * myWriteAPIKey = "xxxxxxxxxxxxxxxx";
 
 #define DHTPIN 4
 #define DHTTYPE DHT11
